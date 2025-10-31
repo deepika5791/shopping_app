@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Wireless Headphones",
+    "price": 59.99,
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470"
+  },
+  {
+    "name": "Smart Watch",
+    "price": 99.99,
+    "description": "Fitness tracking smartwatch with heart rate monitor and step counter.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1617043983671-adaadcaa2460?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470"
+  },
+  {
+    "name": "Men’s Casual Shirt",
+    "price": 25.99,
+    "description": "Comfortable cotton shirt perfect for daily wear.",
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1717724162644-75f624f413ca?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
+  },
+  {
+    "name": "Women’s Handbag",
+    "price": 45.5,
+    "description": "Stylish leather handbag with multiple compartments and zipper pockets.",
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1608060434411-0c3fa9049e7b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=688"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "price": 35.99,
+    "description": "Portable mini speaker with deep bass and long battery life.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1589256469067-ea99122bbdc4?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074"
+  },
+  {
+    "name": "Running Shoes",
+    "price": 49.99,
+    "description": "Lightweight and comfortable running shoes for men and women.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=764"
+  },
+  {
+    "name": "Office Chair",
+    "price": 120.0,
+    "description": "Ergonomic office chair with adjustable height and lumbar support.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=765"
+  },
+  {
+    "name": "Coffee Maker",
+    "price": 75.0,
+    "description": "Automatic drip coffee maker with programmable timer and warmer plate.",
+    "category": "Appliances",
+    "image": "https://images.unsplash.com/photo-1593369196682-6d8ec9ff3ae0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470"
+  },
+  {
+    "name": "Gaming Mouse",
+    "price": 29.99,
+    "description": "RGB wired gaming mouse with high precision and customizable buttons.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1628832307345-7404b47f1751?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1483"
+  },
+  {
+    "name": "Book: JavaScript Mastery",
+    "price": 19.99,
+    "description": "Comprehensive guide to mastering modern JavaScript programming.",
+    "category": "Books",
+    "image": "https://images.unsplash.com/photo-1686517120992-bfc74e4ee0c7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074"
+  }
+]
