@@ -1,4 +1,5 @@
 const express = require("express");
+const cors = require("cors");
 const products = require("./src/routes/productsRoutes");
 const cart = require("./src/routes/cartRoutes");
 const auth = require("./src/routes/authRoutes");
