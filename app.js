@@ -3,6 +3,14 @@ const products = require("./src/routes/productsRoutes");
 const cart = require("./src/routes/cartRoutes");
 const auth = require("./src/routes/authRoutes");
 const app = express();
+
+app.use(
+  cors({
+    origin: "http://localhost:5173",
+    methods: ["GET", "POST", "PUT", "PATCH", "DELETE"],
+    credentials: true,
+  })
+);
 app.use(express.json());
 
 app.use("/api/auth", auth);
