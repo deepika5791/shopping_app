@@ -68,5 +68,75 @@
     "description": "Comprehensive guide to mastering modern JavaScript programming.",
     "category": "Books",
     "image": "https://images.unsplash.com/photo-1686517120992-bfc74e4ee0c7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074"
+  },
+  {
+    "name": "Leather Wallet",
+    "price": 29.5,
+    "description": "Slim genuine leather wallet with multiple card slots and RFID protection.",
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1689844496310-b261f7602bc2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070"
+  },
+  {
+    "name": "Diamond Stud Earrings",
+    "price": 199.99,
+    "description": "Elegant diamond stud earrings made with 14k white gold.",
+    "category": "Jewelry",
+    "image": "https://images.unsplash.com/photo-1717605876994-fbe98389ffbd?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
+  },
+  {
+    "name": "Gold Chain Necklace",
+    "price": 149.99,
+    "description": "Stylish 22k gold-plated chain necklace for men and women.",
+    "category": "Jewelry",
+    "image": "https://images.unsplash.com/photo-1708220041029-e2dbe9089eb4?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
+  },
+  {
+    "name": "Denim Jacket",
+    "price": 59.0,
+    "description": "Trendy denim jacket for men, perfect for casual outings.",
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1537465978529-d23b17165b3b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470"
+  },
+  {
+    "name": "Silk Scarf",
+    "price": 24.99,
+    "description": "Elegant silk scarf with floral print, suitable for all seasons.",
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1689193505830-2f3bfa599822?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
+  },
+  {
+    "name": "Wireless Keyboard",
+    "price": 45.99,
+    "description": "Compact wireless keyboard with ergonomic design and silent keys.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1686730491204-819a6dda6c68?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470"
+  },
+  {
+    "name": "Smartphone Tripod",
+    "price": 19.5,
+    "description": "Adjustable smartphone tripod with Bluetooth remote for selfies and videos.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1694660857079-4f78ab126a59?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=626"
+  },
+  {
+    "name": "Men’s Leather Belt",
+    "price": 22.99,
+    "description": "Classic leather belt with metallic buckle for men’s formal and casual wear.",
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c9c8a1b5?ixlib=rb-4.1.0&auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wireless Earbuds",
+    "price": 69.99,
+    "description": "Noise-cancelling wireless earbuds with charging case and touch controls.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1664286074176-5206ee5dc878?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470"
+  },
+  {
+    "name": "Silver Bracelet",
+    "price": 89.0,
+    "description": "Elegant sterling silver bracelet with adjustable clasp for a perfect fit.",
+    "category": "Jewelry",
+    "image": "https://images.unsplash.com/photo-1676291055501-286c48bb186f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=990"
   }
 ]
