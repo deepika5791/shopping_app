@@ -2,6 +2,20 @@ const Products = require("../models/Products");
 
 const getProducts = async (req, res) => {
   try {
+    const { category, maxPrice, rating } = req.query;
+    const filter = {};
+
+    if (category && category !== "all") {
+      filter.category = category;
+    }
+
+    if (maxPrice) {
+      filter.price = { $lte: Number(maxPrice) };
+    }
+
+    if (rating) {
+      filter.rating = { $gte: Number(rating) };
+    }
     const products = await Products.find();
     console.log("Fetched products:", products);
     res.status(200).json(products);
