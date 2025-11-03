@@ -16,6 +16,6 @@ app.use(express.json());
 
 app.use("/api/auth", auth);
 app.use("/products", products);
-app.use("/cart", cart);
+app.use("/api/cart", cart);
 
 module.exports = app;

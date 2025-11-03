@@ -5,7 +5,9 @@ const {
   removeFromCart,
   clearCart,
 } = require("../controller/cartController");
+
 const router = express.Router();
+
 router.get("/", cartProducts);
 router.post("/add", addToCart);
 router.delete("/remove/:productId", removeFromCart);
