@@ -75,7 +75,7 @@ const ProductdetailEdit = async (req, res) => {
         .json({ message: "Cannot include 'id' in PATCH request " });
     }
     const product = await Products.findByIdAndUpdate(req.params.id, req.body, {
-      newProduct: true,
+      new: true,
     });
     if (!product) return res.status(404).json({ message: "Product Not Found" });
     res.json({ message: "Product successfully updated", data: product });
