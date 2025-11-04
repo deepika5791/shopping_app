@@ -5,18 +5,16 @@ const {
   product,
   newProducts,
   deleteProduct,
-  alldeleteProducts,
   ProductdetailEdit,
-  completenewProduct,
 } = require("../controller/ProductController");
+const { product } = require("../middleware/adminMiddleware");
+const adminMiddleware = require("../middleware/adminMiddleware");
 const router = express.Router();
 
 router.get("/", getProducts);
 router.get("/:id", product);
-router.post("/", newProducts);
-router.delete("/:id", deleteProduct);
-router.delete("/", alldeleteProducts);
-router.patch("/:id", ProductdetailEdit);
-router.put("/:id", completenewProduct);
+router.post("/", adminMiddleware, newProducts);
+router.delete("/:id", adminMiddleware, deleteProduct);
+router.patch("/:id", adminMiddleware, ProductdetailEdit);
 
 module.exports = router;
