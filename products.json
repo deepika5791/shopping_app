@@ -4,139 +4,159 @@
     "price": 59.99,
     "description": "High-quality wireless headphones with noise cancellation.",
     "category": "Electronics",
-    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470"
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470",
+    "rating": 4.7
   },
   {
     "name": "Smart Watch",
     "price": 99.99,
     "description": "Fitness tracking smartwatch with heart rate monitor and step counter.",
     "category": "Electronics",
-    "image": "https://images.unsplash.com/photo-1617043983671-adaadcaa2460?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470"
+    "image": "https://images.unsplash.com/photo-1617043983671-adaadcaa2460?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470",
+    "rating": 4.6
   },
   {
     "name": "Men’s Casual Shirt",
     "price": 25.99,
     "description": "Comfortable cotton shirt perfect for daily wear.",
     "category": "Fashion",
-    "image": "https://images.unsplash.com/photo-1717724162644-75f624f413ca?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
+    "image": "https://images.unsplash.com/photo-1717724162644-75f624f413ca?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+    "rating": 4.3
   },
   {
     "name": "Women’s Handbag",
     "price": 45.5,
     "description": "Stylish leather handbag with multiple compartments and zipper pockets.",
     "category": "Fashion",
-    "image": "https://images.unsplash.com/photo-1608060434411-0c3fa9049e7b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=688"
+    "image": "https://images.unsplash.com/photo-1608060434411-0c3fa9049e7b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=688",
+    "rating": 4.5
   },
   {
     "name": "Bluetooth Speaker",
     "price": 35.99,
     "description": "Portable mini speaker with deep bass and long battery life.",
     "category": "Electronics",
-    "image": "https://images.unsplash.com/photo-1589256469067-ea99122bbdc4?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074"
+    "image": "https://images.unsplash.com/photo-1589256469067-ea99122bbdc4?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074",
+    "rating": 4.4
   },
   {
     "name": "Running Shoes",
     "price": 49.99,
     "description": "Lightweight and comfortable running shoes for men and women.",
     "category": "Footwear",
-    "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=764"
+    "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=764",
+    "rating": 4.2
   },
   {
     "name": "Office Chair",
     "price": 120.0,
     "description": "Ergonomic office chair with adjustable height and lumbar support.",
     "category": "Furniture",
-    "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=765"
+    "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=765",
+    "rating": 4.8
   },
   {
     "name": "Coffee Maker",
     "price": 75.0,
     "description": "Automatic drip coffee maker with programmable timer and warmer plate.",
     "category": "Appliances",
-    "image": "https://images.unsplash.com/photo-1593369196682-6d8ec9ff3ae0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470"
+    "image": "https://images.unsplash.com/photo-1593369196682-6d8ec9ff3ae0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470",
+    "rating": 4.6
   },
   {
     "name": "Gaming Mouse",
     "price": 29.99,
     "description": "RGB wired gaming mouse with high precision and customizable buttons.",
     "category": "Electronics",
-    "image": "https://images.unsplash.com/photo-1628832307345-7404b47f1751?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1483"
+    "image": "https://images.unsplash.com/photo-1628832307345-7404b47f1751?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1483",
+    "rating": 4.7
   },
   {
     "name": "Book: JavaScript Mastery",
     "price": 19.99,
     "description": "Comprehensive guide to mastering modern JavaScript programming.",
     "category": "Books",
-    "image": "https://images.unsplash.com/photo-1686517120992-bfc74e4ee0c7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074"
+    "image": "https://images.unsplash.com/photo-1686517120992-bfc74e4ee0c7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074",
+    "rating": 4.9
   },
   {
     "name": "Leather Wallet",
     "price": 29.5,
     "description": "Slim genuine leather wallet with multiple card slots and RFID protection.",
     "category": "Fashion",
-    "image": "https://images.unsplash.com/photo-1689844496310-b261f7602bc2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070"
+    "image": "https://images.unsplash.com/photo-1689844496310-b261f7602bc2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070",
+    "rating": 4.4
   },
   {
     "name": "Diamond Stud Earrings",
     "price": 199.99,
     "description": "Elegant diamond stud earrings made with 14k white gold.",
     "category": "Jewelry",
-    "image": "https://images.unsplash.com/photo-1717605876994-fbe98389ffbd?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
+    "image": "https://images.unsplash.com/photo-1717605876994-fbe98389ffbd?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+    "rating": 4.8
   },
   {
     "name": "Gold Chain Necklace",
     "price": 149.99,
     "description": "Stylish 22k gold-plated chain necklace for men and women.",
     "category": "Jewelry",
-    "image": "https://images.unsplash.com/photo-1708220041029-e2dbe9089eb4?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
+    "image": "https://images.unsplash.com/photo-1708220041029-e2dbe9089eb4?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+    "rating": 4.7
   },
   {
     "name": "Denim Jacket",
     "price": 59.0,
     "description": "Trendy denim jacket for men, perfect for casual outings.",
     "category": "Fashion",
-    "image": "https://images.unsplash.com/photo-1537465978529-d23b17165b3b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470"
+    "image": "https://images.unsplash.com/photo-1537465978529-d23b17165b3b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470",
+    "rating": 4.5
   },
   {
     "name": "Silk Scarf",
     "price": 24.99,
     "description": "Elegant silk scarf with floral print, suitable for all seasons.",
     "category": "Fashion",
-    "image": "https://images.unsplash.com/photo-1689193505830-2f3bfa599822?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
+    "image": "https://images.unsplash.com/photo-1689193505830-2f3bfa599822?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+    "rating": 4.3
   },
   {
     "name": "Wireless Keyboard",
     "price": 45.99,
     "description": "Compact wireless keyboard with ergonomic design and silent keys.",
     "category": "Electronics",
-    "image": "https://images.unsplash.com/photo-1686730491204-819a6dda6c68?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470"
+    "image": "https://images.unsplash.com/photo-1686730491204-819a6dda6c68?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470",
+    "rating": 4.6
   },
   {
     "name": "Smartphone Tripod",
     "price": 19.5,
     "description": "Adjustable smartphone tripod with Bluetooth remote for selfies and videos.",
     "category": "Electronics",
-    "image": "https://images.unsplash.com/photo-1694660857079-4f78ab126a59?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=626"
+    "image": "https://images.unsplash.com/photo-1694660857079-4f78ab126a59?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=626",
+    "rating": 4.4
   },
   {
     "name": "Men’s Leather Belt",
     "price": 22.99,
     "description": "Classic leather belt with metallic buckle for men’s formal and casual wear.",
     "category": "Fashion",
-    "image": "https://images.unsplash.com/photo-1752386268324-0533ffbfbc0e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=880"
+    "image": "https://images.unsplash.com/photo-1752386268324-0533ffbfbc0e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=880",
+    "rating": 4.2
   },
   {
     "name": "Wireless Earbuds",
     "price": 69.99,
     "description": "Noise-cancelling wireless earbuds with charging case and touch controls.",
     "category": "Electronics",
-    "image": "https://images.unsplash.com/photo-1664286074176-5206ee5dc878?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470"
+    "image": "https://images.unsplash.com/photo-1664286074176-5206ee5dc878?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470",
+    "rating": 4.8
   },
   {
     "name": "Silver Bracelet",
     "price": 89.0,
     "description": "Elegant sterling silver bracelet with adjustable clasp for a perfect fit.",
     "category": "Jewelry",
-    "image": "https://images.unsplash.com/photo-1676291055501-286c48bb186f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=990"
+    "image": "https://images.unsplash.com/photo-1676291055501-286c48bb186f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=990",
+    "rating": 4.7
   }
 ]
